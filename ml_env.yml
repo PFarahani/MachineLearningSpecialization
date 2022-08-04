@@ -1,0 +1,13 @@
+name: ml_course
+channels:
+  - defaults
+dependencies:
+  - pip=18.1
+  - numpy=1.15.4
+  - matplotlib=3.0.1
+  - pandas=0.23.4
+  - scikit-learn=0.20.1
+  - jupyter=1.0.0
+  - jedi=0.17.2
+prefix: D:\Software\Anaconda3\envs\ml_course
+
